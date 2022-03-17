@@ -1,4 +1,4 @@
-# VPC Link
+# apigatewayvpclink
 
 This project creates:
 - VPC Link;
