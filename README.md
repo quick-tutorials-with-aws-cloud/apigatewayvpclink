@@ -1,7 +1,7 @@
 # apigatewayvpclink
 
 This project creates:
-- A VPC Link;
+- A VPC Link to allow integrations beetwen an private API and resouces in a VPC, like a Load Balancer;
 
 ## Helpful links
 
